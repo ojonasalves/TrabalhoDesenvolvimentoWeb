@@ -1,8 +1,10 @@
 
 /*
 Portfolio pessoal Jonas
+Css de estilo da página
 */
 
+/* estilo Corpo */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -10,6 +12,8 @@ body {
   background-color: #E0FFFF;
   color: #333;
 }
+
+/* estilo Cabeçalho */
 
 header {
 
@@ -35,6 +39,8 @@ nav a:hover {
 main {
   padding: 20px;
 }
+
+/* estilo do Formulario */
 
 form {
   background-color: #fff;
